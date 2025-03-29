@@ -47,8 +47,6 @@ Copy
 npm start
 
 🌍 Deployment
-Once you’ve got everything set up, it’s time to deploy! You can easily deploy your dashboard on free hosting platforms like Netlify or Vercel.
-
 Deployment Link: [Your Live Demo URL]
 
 💡 Approach
