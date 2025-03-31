@@ -2,7 +2,7 @@ Gen AI Analytics Dashboard - A Cutting-Edge Data Insight Tool
 Welcome to the Future of Data Analytics! 🚀
 Introducing the Gen AI Analytics Dashboard, a sleek and intuitive platform designed to empower non-technical users with the ability to query complex business data using just natural language. Whether you’re asking about trends, patterns, or insights, this prototype leverages the power of AI to bring answers to your fingertips—instantaneously!
 
-Live Demo:[]
+Live Demo:https://bucolic-marigold-acd1ad.netlify.app/
 
 ✨ Key Features
 Natural Language Query Input: Say goodbye to complicated query languages. Simply ask your business questions in natural language and let AI do the heavy lifting!
