@@ -47,7 +47,7 @@ Copy
 npm start
 
 🌍 Deployment
-Deployment Link: [Your Live Demo URL]
+Deployment Link: https://bucolic-marigold-acd1ad.netlify.app/
 
 💡 Approach
 Here’s how we built this masterpiece:
